@@ -1,0 +1,7 @@
+/.env
+/lstm.ipynb
+/lstm_stock_prediction.h5
+/main.py
+/requirements.txt
+/xgboost.ipynb
+/xgboost_model.joblib
